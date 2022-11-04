@@ -12,7 +12,7 @@ QA testing is one of the vital processes in the era of consumption, and at every
 * 🤝  I'm open to collaborating on any project that needs testing
 
 * ⚡  <p align="left"> <a href="https://docs.google.com/spreadsheets/d/1DmB7uSLY87K9qHYZsFxuWDP-WNB_NXlKQH0bA70sM9k/edit#gid=0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-* ⚡ [https://docs.google.com/spreadsheets/d/1DmB7uSLY87K9qHYZsFxuWDP-WNB_NXlKQH0bA70sM9k/edit#gid=0](mailto:https://docs.google.com/spreadsheets/d/1DmB7uSLY87K9qHYZsFxuWDP-WNB_NXlKQH0bA70sM9k/edit#gid=0)
+* ⚡ [https://docs.google.com/spreadsheets/d/1DmB7uSLY87K9qHYZsFxuWDP-WNB_NXlKQH0bA70sM9k/edit#gid=0](mailto:Test_case _ex)
 
 
 
