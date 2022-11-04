@@ -11,6 +11,8 @@ QA testing is one of the vital processes in the era of consumption, and at every
 * 🧠  I'm learning MS SQL Server BD Development; Oracle database server development; CRM.
 * 🤝  I'm open to collaborating on any project that needs testing
 
+* ⚡  <a href="https://docs.google.com/spreadsheets/d/1DmB7uSLY87K9qHYZsFxuWDP-WNB\_NXlKQH0bA70sM9k/edit#gid=0" alt="GitHub Commits Graph" />
+* 
 ### Skills
 
 
